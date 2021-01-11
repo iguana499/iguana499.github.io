@@ -1,0 +1,62 @@
+.ArticleName{
+    position: absolute;
+    width: 77px;
+    height: 24px;
+    left: 87px;
+    top: 233px;
+
+    font-family: Actor;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+
+    display: flex;
+    align-items: flex-end;
+    }
+    .form-group{
+    position: absolute;
+    width: 540px;
+    height: 38px;
+    left: 87px;
+    top: 265px;
+    }
+    .button{
+    position: absolute;
+    width: 127px;
+    height: 47px;
+    left: 56px;
+    top: 767px;
+    }
+    .DescriptionName{
+        position: absolute;
+        width: 237.06px;
+        height: 40.67px;
+        left: 80px;
+        top: 376px;
+
+        font-family: Actor;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+
+        display: flex;
+        align-items: flex-end;
+    }
+    .description{
+    position: absolute;
+    width: 753px;
+    height: 228.77px;
+    left: 80px;
+    top: 430.23px;
+    }
+	body {
+    margin: 0; /* Убираем отступы */
+   }
+   .table {
+    position: absolute; /* Абсолютное позиционирование */
+    margin: 20px;
+    width: 870px;
+    height: 40px
+   }
